@@ -22,7 +22,7 @@ def assembled_matrix
   "Pineapple",
   "Oranges",
   "Watermelon",
-  "Eggplant"].sort,
+  "Eggplant"],
   ["Strawberries",
   "Potatoes",
   "Grapes",

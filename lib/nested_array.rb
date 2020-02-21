@@ -26,9 +26,8 @@ end
 
 def sorted_matrix
   sortedArray = [
-  [CONVENTIONAL_PRODUCE],
-  [ORGANIC_PRODUCE]]
-  sortedArray.sort
+  [CONVENTIONAL_PRODUCE.sort],
+  [ORGANIC_PRODUCE.sort]]
   # Using Array literal syntax only, build another nested array that 
   # uses the arrays of conventional and organic produce as before.
   # However, this time, sort each internal array alphabetically by the first character
